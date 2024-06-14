@@ -15,7 +15,7 @@ This repository contains the Thai language translation for [WizTree](https://dis
 
 To use the Thai translation of WizTree, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/wiztree-thai/releases) page.
+1. Download the latest release from the [Releases](https://github.com/shadowsnow124/Wiztree-Thai-Translation/releases) page.
 2. Extract the contents of the downloaded zip file.
 3. Copy the extracted files to the WizTree installation directory, typically located at: `C:\Program Files\WizTree\`
 4. Restart WizTree if it is already running.
