@@ -1,7 +1,7 @@
 # WizTree Thai Translation
 
-This repository contains the Thai language translation for [WizTree](https://diskanalyzer.com/). This project is to make WizTree more accessible to Thai users 
-สำหรับภาษาไทย [กดตรงนี้](#วิธีติดตั้ง)
+- This repository contains the Thai language translation for [WizTree](https://diskanalyzer.com/). This project is to make WizTree more accessible to Thai users 
+- สำหรับภาษาไทย [กดตรงนี้](#Wiztree-ภาษาไทย)
 
 
 ## Installation 
@@ -20,6 +20,9 @@ To use the Thai translation of WizTree, follow these steps:
 ## Usage
 
 Once the files are copied to the WizTree installation directory, the application should automatically detect Thai language pack. If the language does not change automatically, you can manually set the language from the WizTree settings menu.
+
+# Wiztree ภาษาไทย 
+- คลังข้อมูลนี้ประกอบด้วยคำแปลภาษาไทยสำหรับ [WizTree](https://diskanalyzer.com/) โปรเจกต์นี้มีวัตถุประสงค์เพื่อทำให้ WizTree เข้าถึงผู้ใช้ชาวไทยได้ง่ายขึ้น
 
 ## วิธีติดตั้ง
 วิธีการใช้แปลภาษาไทยของ WizTree ให้ทำตามขั้นตอนนี้:
