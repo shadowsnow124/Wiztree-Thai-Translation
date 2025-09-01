@@ -3,6 +3,8 @@
 - This repository contains the Thai language translation for [WizTree](https://diskanalyzer.com/). This project is to make WizTree more accessible to Thai users 
 - สำหรับภาษาไทย [กดตรงนี้](#Wiztree-ภาษาไทย)
 
+# NOTE ⚠️
+- This project didn't finish yet if you find a glitch feel free to reaching us =D
 
 ## Installation 
 
